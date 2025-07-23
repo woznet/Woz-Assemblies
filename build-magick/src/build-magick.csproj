@@ -53,11 +53,11 @@
 
 <ItemGroup>
     <!-- Package references for Magick.NET -->
-    <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="14.2.0">
+    <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="14.7.0">
       <IncludeAssets>all</IncludeAssets>
       <PrivateAssets>none</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="Magick.NET.Core" Version="14.2.0">
+    <PackageReference Include="Magick.NET.Core" Version="14.7.0">
       <IncludeAssets>all</IncludeAssets>
       <PrivateAssets>none</PrivateAssets>
     </PackageReference>
